@@ -94,8 +94,8 @@
         <mxCell id="Q2sAb4ySZVrOzpDbZdlu-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 9px;&quot;&gt;higher&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="-480" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="LevIwsMPBIDela9SitM0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#999999;fontSize=15;" value="&lt;div&gt;Online LiDAR-IMU SLAM&lt;/div&gt;" vertex="1">
-          <mxGeometry height="41" width="390" x="70" y="210" as="geometry" />
+        <mxCell id="LevIwsMPBIDela9SitM0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#999999;fontSize=15;" value="&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;Online LiDAR-IMU SLAM&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="41" width="390" x="-240" y="135.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
