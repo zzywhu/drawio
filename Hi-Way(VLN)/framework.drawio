@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="29.3.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.2">
   <diagram name="第 1 页" id="ePTb1pwJbmSpEeToUCG_">
-    <mxGraphModel dx="2940" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2745" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="Q2sAb4ySZVrOzpDbZdlu-9" edge="1" parent="1" source="Q2sAb4ySZVrOzpDbZdlu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Q2sAb4ySZVrOzpDbZdlu-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q2sAb4ySZVrOzpDbZdlu-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#999999;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;Robot rotating to initialize the environment&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Q2sAb4ySZVrOzpDbZdlu-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#999999;fontSize=15;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;Robot rotating to initialize the environment&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="41" width="390" x="-240" y="69.5" as="geometry" />
         </mxCell>
         <mxCell id="Q2sAb4ySZVrOzpDbZdlu-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#fad7ac;strokeColor=#b46504;opacity=70;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 13px;&quot;&gt;Surround-view Image Frames&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
@@ -68,7 +68,7 @@
           <mxGeometry height="42.5" width="264.4" x="-552.2" y="77.5" as="geometry" />
         </mxCell>
         <mxCell id="Q2sAb4ySZVrOzpDbZdlu-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fillColor=#fad7ac;strokeColor=#b46504;opacity=70;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Image-Text Matching (ITM)&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="36" width="280" x="-560" y="138" as="geometry" />
+          <mxGeometry height="32" width="280" x="-560" y="138" as="geometry" />
         </mxCell>
         <mxCell id="Q2sAb4ySZVrOzpDbZdlu-11" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=/home/zzy/Downloads/图片1_wipe_bg (1).png;" value="" vertex="1">
           <mxGeometry height="114" width="143.09" x="-1120" y="-340" as="geometry" />
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="Q2sAb4ySZVrOzpDbZdlu-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 9px;&quot;&gt;higher&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="-480" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LevIwsMPBIDela9SitM0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#999999;fontSize=15;" value="&lt;div&gt;Online LiDAR-IMU SLAM&lt;/div&gt;" vertex="1">
+          <mxGeometry height="41" width="390" x="70" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
