@@ -237,9 +237,6 @@
             <mxPoint x="-1164" y="-368" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c-i5iyPZATY2d7-9fCKt-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;arcSize=5;dashed=1;dashPattern=8 8;strokeWidth=2;align=center;" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="410" width="340" x="-1010" y="-520" as="geometry" />
-        </mxCell>
         <mxCell id="c-i5iyPZATY2d7-9fCKt-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeWidth=1;shadow=1;strokeColor=#b85450;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;LiDAR&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;@10hz&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="49" width="75" x="-1527.5" y="-336" as="geometry" />
         </mxCell>
