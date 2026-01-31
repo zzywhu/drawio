@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="29.3.6">
   <diagram name="第 1 页" id="hfdybZxA_tODHeSpsK5F">
-    <mxGraphModel dx="1913" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1658" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,7 +263,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MWldgRdxxfJ7GtS4PpcP-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$^{C}\mathbf{\bar{T}}_{L}$$" vertex="1">
-          <mxGeometry height="30" width="60" x="110" y="550" as="geometry" />
+          <mxGeometry height="30" width="60" x="-289" y="495.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MWldgRdxxfJ7GtS4PpcP-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Coarse result&lt;/font&gt;" vertex="1">
+          <mxGeometry height="17" width="80" x="80" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="MWldgRdxxfJ7GtS4PpcP-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Optimal result&lt;/font&gt;" vertex="1">
+          <mxGeometry height="17" width="109.5" x="-375" y="502" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
