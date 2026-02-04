@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="29.3.6">
   <diagram name="第 1 页" id="YcgHugEct7yPX9wfddiJ">
-    <mxGraphModel dx="1104" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="781" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,12 @@
         </mxCell>
         <mxCell id="vF8l8NpK4yzL4fmL69ev-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;(d) 4 m&lt;/font&gt;" vertex="1">
           <mxGeometry height="14" width="60" x="419.54" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="BTohiyT3cTFUKM2NqdLp-1" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;Top view&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="40.06" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="BTohiyT3cTFUKM2NqdLp-2" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;Side view&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="37.06" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
