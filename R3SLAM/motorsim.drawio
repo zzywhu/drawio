@@ -155,7 +155,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hVkSXmqfKnR6dtVXj0Rs-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;y (m)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="247.5" x="-905" y="-126.72" as="geometry" />
+          <mxGeometry height="30" width="247.5" x="-904" y="-126.72" as="geometry" />
         </mxCell>
         <mxCell id="hVkSXmqfKnR6dtVXj0Rs-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;0&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="10" width="30" x="-669.25" y="10" as="geometry" />
