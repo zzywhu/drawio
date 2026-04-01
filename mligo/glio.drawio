@@ -4,6 +4,30 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2czBMnInTwCcMh3hezJp-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;LiDAR #0&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2czBMnInTwCcMh3hezJp-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;LiDAR #1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2czBMnInTwCcMh3hezJp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;GNSS&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="330" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2czBMnInTwCcMh3hezJp-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Soft synchronization&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="570" x="50" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2czBMnInTwCcMh3hezJp-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Convert to LiDAR #0 pose&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="340" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2czBMnInTwCcMh3hezJp-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Merge by extrinsic value&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="50" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2czBMnInTwCcMh3hezJp-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;LiDAR odometry (GICP)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="50" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="2czBMnInTwCcMh3hezJp-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Convert to LiDAR #0 pose&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="340" y="410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
