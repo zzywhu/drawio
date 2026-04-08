@@ -57,6 +57,15 @@
         <mxCell id="ncuzVMKwLi65Y4HlLOoA-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="image pose update&lt;div&gt;(intensity)&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="270" y="380" as="geometry" />
         </mxCell>
+        <mxCell id="ncuzVMKwLi65Y4HlLOoA-25" edge="1" parent="1" source="ncuzVMKwLi65Y4HlLOoA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ncuzVMKwLi65Y4HlLOoA-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="495" />
+              <mxPoint x="690" y="190" />
+              <mxPoint x="400" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ncuzVMKwLi65Y4HlLOoA-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="image pose update&lt;div&gt;(直接法)&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="270" y="470" as="geometry" />
         </mxCell>
