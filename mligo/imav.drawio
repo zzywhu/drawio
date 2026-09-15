@@ -4,17 +4,109 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="310" width="270" x="570" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="310" width="540" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-21" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GQJMxW2BvHYxNk5imcXI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="无人机影像" vertex="1">
           <mxGeometry height="40" width="110" x="40" y="90" as="geometry" />
         </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-19" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GQJMxW2BvHYxNk5imcXI-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="无人机IMU在局部ENU系下的Pose" vertex="1">
-          <mxGeometry height="40" width="110" x="40" y="160" as="geometry" />
+          <mxGeometry height="40" width="110" x="170" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-26" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-27" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GQJMxW2BvHYxNk5imcXI-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="无人机IMU的&lt;div&gt;全局经纬度&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="110" x="40" y="230" as="geometry" />
+          <mxGeometry height="40" width="110" x="300" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-20" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GQJMxW2BvHYxNk5imcXI-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="异常运动过滤" vertex="1">
-          <mxGeometry height="40" width="90" x="190" y="160" as="geometry" />
+          <mxGeometry height="40" width="110" x="170" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-28" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="280" />
+              <mxPoint x="94" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-30" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.783;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="GQJMxW2BvHYxNk5imcXI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="时间戳匹配" vertex="1">
+          <mxGeometry height="40" width="110" x="170" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-32" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="初始化ENU原点" vertex="1">
+          <mxGeometry height="40" width="110" x="429" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-29" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="计算无人机相机在局部ENU下的Pose" vertex="1">
+          <mxGeometry height="40" width="110" x="39" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-31" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="无人机影像四角点与地面求交" vertex="1">
+          <mxGeometry height="40" width="110" x="169" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-33" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="交点坐标转换为全局经纬度" vertex="1">
+          <mxGeometry height="40" width="110" x="299" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-34" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="建立地面网格，并重投影回影像" vertex="1">
+          <mxGeometry height="40" width="110" x="429" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-36" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="正射矫正后的&lt;div&gt;无人机影像&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="580" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-35" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="已完成正射矫正的&lt;div&gt;影像序列&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="580" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-37" edge="1" parent="1" source="GQJMxW2BvHYxNk5imcXI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GQJMxW2BvHYxNk5imcXI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="接缝羽化和亮度矫正" vertex="1">
+          <mxGeometry height="40" width="110" x="580" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="正射地图" vertex="1">
+          <mxGeometry height="40" width="80" x="747" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="在线逐帧矫正" vertex="1">
+          <mxGeometry height="30" width="80" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="正射影像拼接" vertex="1">
+          <mxGeometry height="30" width="80" x="570" y="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
