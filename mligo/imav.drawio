@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="QVzgRJ1mPHeGDRs7-b8B">
-    <mxGraphModel>
+    <mxGraphModel dx="1077" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="无人机影像" vertex="1">
+          <mxGeometry height="40" width="110" x="40" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="无人机IMU在局部ENU系下的Pose" vertex="1">
+          <mxGeometry height="40" width="110" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="无人机IMU的&lt;div&gt;全局经纬度&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="40" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="GQJMxW2BvHYxNk5imcXI-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="异常运动过滤" vertex="1">
+          <mxGeometry height="40" width="90" x="190" y="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
